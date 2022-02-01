@@ -1,19 +1,15 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la pagina de los ejercicios de programación de valentina mahecha 
 
-You can use the [editor on GitHub](https://github.com/Vamatru12/EjerciciosProgramacion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+esta pagina guarda todos los ejercicios del curso, espero tener el control sobre mis activdades y etc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sobre mi
+una breve descripcion de mi
 
-### Markdown
+## Ejercicios 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+aqui los ejercicios
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Proyecto
 
 - Bulleted
 - List
